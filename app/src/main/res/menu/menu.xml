@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_ql_phieu_muon"
+            android:icon="@drawable/ic_phieumuon"
+            android:title="Quản lý phiếu mượn" />
+        <item
+            android:id="@+id/menu_ql_loai_sach"
+            android:icon="@drawable/ic_sach"
+            android:title="Quản lý loại sách" />
+        <item
+            android:id="@+id/menu_ql_sach"
+            android:icon="@drawable/open_book"
+            android:title="Quản lý sách" />
+        <item
+            android:id="@+id/menu_ql_thanh_vien"
+            android:icon="@drawable/ic_group"
+            android:title="Quản lý thành viên" />
+    </group>
+
+    <item android:title="Thống kê">
+        <menu>
+            <item
+                android:id="@+id/menu_top10_muon"
+                android:icon="@drawable/ic_top"
+                android:title="Top 10 sách mượn nhiều nhất" />
+            <item
+                android:id="@+id/menu_doanh_thu"
+                android:icon="@drawable/monney"
+                android:title="Doanh thu" />
+        </menu>
+    </item>
+    <item android:title="Người dùng">
+        <menu>
+            <item
+                android:id="@+id/menu_admin_them_tai_khoan"
+                android:icon="@drawable/ic_setting_gray"
+                android:title="Tạo tài khoản" />
+        </menu>
+    </item>
+    <item android:title="Người dùng">
+        <menu>
+            <item
+                android:id="@+id/menu_change_passworđ"
+                android:icon="@drawable/ic_baseline_vpn_key_24"
+                android:title="Đổi mật khẩu" />
+            <item
+                android:id="@+id/menu_log_out"
+                android:icon="@drawable/exit"
+                android:title="Đăng xuất" />
+        </menu>
+    </item>
+</menu>

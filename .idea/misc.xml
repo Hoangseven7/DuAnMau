@@ -1,0 +1,67 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/anhkkdph22689/app/src/main/res/drawable/ic_baseline_remove_red_eye_24.xml" value="0.206" />
+        <entry key="..\:/anhkkdph22689/app/src/main/res/layout/activity_main.xml" value="0.24048913043478262" />
+        <entry key="..\:/anhkkdph22689/app/src/main/res/layout/activity_main_login.xml" value="0.176" />
+        <entry key="..\:/anhkkdph22689/app/src/main/res/layout/activity_splash_screen.xml" value="0.25" />
+        <entry key="..\:/anhkkdph22689/app/src/main/res/layout/dialog_doimatkhau.xml" value="0.1" />
+        <entry key="..\:/anhkkdph22689/app/src/main/res/layout/dialog_sach.xml" value="0.2" />
+        <entry key="..\:/anhkkdph22689/app/src/main/res/layout/dialog_sua_loaisach.xml" value="0.1" />
+        <entry key="..\:/anhkkdph22689/app/src/main/res/layout/dialog_sua_phieumuon.xml" value="0.1" />
+        <entry key="..\:/anhkkdph22689/app/src/main/res/layout/dialog_sua_sach.xml" value="0.2" />
+        <entry key="..\:/anhkkdph22689/app/src/main/res/layout/dialog_sua_thanhvien.xml" value="0.2" />
+        <entry key="..\:/anhkkdph22689/app/src/main/res/layout/dialog_tao_tai_khoan.xml" value="0.25" />
+        <entry key="..\:/anhkkdph22689/app/src/main/res/layout/dialog_them_phieumuon.xml" value="0.25" />
+        <entry key="..\:/anhkkdph22689/app/src/main/res/layout/dialog_them_thanhvien.xml" value="0.25" />
+        <entry key="..\:/anhkkdph22689/app/src/main/res/layout/fragment_change_password.xml" value="0.1" />
+        <entry key="..\:/anhkkdph22689/app/src/main/res/layout/fragment_ql_loai_sach.xml" value="0.25" />
+        <entry key="..\:/anhkkdph22689/app/src/main/res/layout/fragment_ql_phieu_muon.xml" value="0.25" />
+        <entry key="..\:/anhkkdph22689/app/src/main/res/layout/fragment_ql_sach.xml" value="0.25" />
+        <entry key="..\:/anhkkdph22689/app/src/main/res/layout/fragment_ql_thanh_vien.xml" value="0.25" />
+        <entry key="..\:/anhkkdph22689/app/src/main/res/layout/fragment_top10_sach_muon.xml" value="0.25" />
+        <entry key="..\:/anhkkdph22689/app/src/main/res/layout/header_layout_nav.xml" value="0.1" />
+        <entry key="..\:/anhkkdph22689/app/src/main/res/layout/item_recycler_loaisach.xml" value="0.25" />
+        <entry key="..\:/anhkkdph22689/app/src/main/res/layout/item_recycler_phieumuon.xml" value="0.25" />
+        <entry key="..\:/anhkkdph22689/app/src/main/res/layout/item_recycler_sach.xml" value="0.25" />
+        <entry key="..\:/anhkkdph22689/app/src/main/res/layout/item_recycler_thanhvien.xml" value="0.25" />
+        <entry key="..\:/anhkkdph22689/app/src/main/res/layout/recycler_top10.xml" value="0.25" />
+        <entry key="..\:/anhkkdph22689/app/src/main/res/menu/menu.xml" value="0.4" />
+        <entry key="..\:/hoangttmph22653_Application/app/src/main/res/drawable/ic_group.xml" value="0.216" />
+        <entry key="..\:/hoangttmph22653_Application/app/src/main/res/layout/activity_main.xml" value="0.23777173913043478" />
+        <entry key="..\:/hoangttmph22653_Application/app/src/main/res/layout/activity_main_login.xml" value="0.2" />
+        <entry key="..\:/hoangttmph22653_Application/app/src/main/res/layout/activity_splash_screen.xml" value="0.23777173913043478" />
+        <entry key="..\:/hoangttmph22653_Application/app/src/main/res/layout/dialog_doimatkhau.xml" value="0.23777173913043478" />
+        <entry key="..\:/hoangttmph22653_Application/app/src/main/res/layout/dialog_sach.xml" value="0.23777173913043478" />
+        <entry key="..\:/hoangttmph22653_Application/app/src/main/res/layout/dialog_sua_loaisach.xml" value="0.23777173913043478" />
+        <entry key="..\:/hoangttmph22653_Application/app/src/main/res/layout/dialog_sua_phieumuon.xml" value="0.23777173913043478" />
+        <entry key="..\:/hoangttmph22653_Application/app/src/main/res/layout/dialog_sua_sach.xml" value="0.23777173913043478" />
+        <entry key="..\:/hoangttmph22653_Application/app/src/main/res/layout/dialog_sua_thanhvien.xml" value="0.23777173913043478" />
+        <entry key="..\:/hoangttmph22653_Application/app/src/main/res/layout/dialog_tao_tai_khoan.xml" value="0.23777173913043478" />
+        <entry key="..\:/hoangttmph22653_Application/app/src/main/res/layout/dialog_them_phieumuon.xml" value="0.23777173913043478" />
+        <entry key="..\:/hoangttmph22653_Application/app/src/main/res/layout/dialog_them_thanhvien.xml" value="0.23777173913043478" />
+        <entry key="..\:/hoangttmph22653_Application/app/src/main/res/layout/fragment__doanh_thu.xml" value="0.23777173913043478" />
+        <entry key="..\:/hoangttmph22653_Application/app/src/main/res/layout/fragment_change_password.xml" value="0.23777173913043478" />
+        <entry key="..\:/hoangttmph22653_Application/app/src/main/res/layout/fragment_ql_loai_sach.xml" value="0.23777173913043478" />
+        <entry key="..\:/hoangttmph22653_Application/app/src/main/res/layout/fragment_ql_phieu_muon.xml" value="0.23777173913043478" />
+        <entry key="..\:/hoangttmph22653_Application/app/src/main/res/layout/fragment_ql_sach.xml" value="0.23777173913043478" />
+        <entry key="..\:/hoangttmph22653_Application/app/src/main/res/layout/fragment_ql_thanh_vien.xml" value="0.23777173913043478" />
+        <entry key="..\:/hoangttmph22653_Application/app/src/main/res/layout/fragment_top10_sach_muon.xml" value="0.23777173913043478" />
+        <entry key="..\:/hoangttmph22653_Application/app/src/main/res/layout/header_layout_nav.xml" value="0.23777173913043478" />
+        <entry key="..\:/hoangttmph22653_Application/app/src/main/res/layout/item_recycler_loaisach.xml" value="0.23777173913043478" />
+        <entry key="..\:/hoangttmph22653_Application/app/src/main/res/layout/item_recycler_phieumuon.xml" value="0.23777173913043478" />
+        <entry key="..\:/hoangttmph22653_Application/app/src/main/res/layout/item_recycler_sach.xml" value="0.23777173913043478" />
+        <entry key="..\:/hoangttmph22653_Application/app/src/main/res/layout/item_recycler_thanhvien.xml" value="0.23777173913043478" />
+        <entry key="..\:/hoangttmph22653_Application/app/src/main/res/layout/recycler_top10.xml" value="0.23777173913043478" />
+        <entry key="..\:/hoangttmph22653_Application/app/src/main/res/menu/menu.xml" value="0.24947916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
