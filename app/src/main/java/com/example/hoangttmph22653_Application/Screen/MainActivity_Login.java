@@ -2,12 +2,14 @@ package com.example.hoangttmph22653_Application.Screen;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
+import android.graphics.Shader;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.CheckBox;
 import android.widget.EditText;
+import android.widget.Toast;
 
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
@@ -41,12 +43,16 @@ public class MainActivity_Login extends AppCompatActivity {
         btnDangNhap = findViewById(R.id.btn_Dang_Nhap);
         btnHuy = findViewById(R.id.btn_Huy);
         cbk = findViewById(R.id.checkBox);
+
     }
 
+
     private void kiemtra() {
+
         btnDangNhap.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+
                 try {
                     Boolean kiemtra=dao.getDSThuThu(MainActivity_Login.this,edtTk.getText().toString().trim(),edtPass.getText().toString().trim(),luuhaykhong);
                     if (kiemtra) {
