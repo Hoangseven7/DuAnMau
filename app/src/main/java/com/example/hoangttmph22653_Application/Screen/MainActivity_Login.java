@@ -25,7 +25,7 @@ public class MainActivity_Login extends AppCompatActivity {
     ThuThuDao dao;
     CheckBox cbk;
     Boolean luuhaykhong = true;
-    private  String u,p;
+    String u,p;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -47,7 +47,10 @@ public class MainActivity_Login extends AppCompatActivity {
     }
 
 
+
     private void kiemtra() {
+
+
 
         btnDangNhap.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -71,6 +74,7 @@ public class MainActivity_Login extends AppCompatActivity {
                 }
             }
         });
+
 
 
         btnHuy.setOnClickListener(new View.OnClickListener() {

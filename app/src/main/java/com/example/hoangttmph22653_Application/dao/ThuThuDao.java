@@ -8,6 +8,8 @@ import android.database.sqlite.SQLiteDatabase;
 
 import com.example.hoangttmph22653_Application.Database.DbHelper;
 
+import java.util.List;
+
 
 public class ThuThuDao {
     public Boolean getDSThuThu(Context context, String matt, String matkhau,boolean luuhaykhong) {
@@ -71,4 +73,5 @@ public class ThuThuDao {
             return true;
         }
     }
+
 }
